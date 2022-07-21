@@ -1,4 +1,4 @@
-package com.example.loblaw.Cmas.Entity;
+package com.example.loblaw.Cmas.entity;
 
 public class MigrationResponse{
 
